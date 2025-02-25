@@ -17,6 +17,7 @@
 I'm excited to collaborate, share knowledge, and contribute to the vibrant world of IoT and Embedded Systems. Whether you're a fellow developer, a hardware enthusiast, or just curious about the possibilities, feel free to reach out. Let's innovate together!
 
 📧 Email: muhammadahmedgul@gmail.com
+
 💼 LinkedIn: www.linkedin.com/in/ahmedgul70
 
 *************** Let's turn your ideas into reality **************************
