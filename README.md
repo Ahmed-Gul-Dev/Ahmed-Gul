@@ -20,4 +20,4 @@ I'm excited to collaborate, share knowledge, and contribute to the vibrant world
 
 💼 LinkedIn: www.linkedin.com/in/ahmedgul70
 
-*************** Let's turn your ideas into reality **************************
+## "Let's turn your ideas into reality." 
