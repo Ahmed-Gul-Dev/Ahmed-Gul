@@ -1,4 +1,4 @@
-# M Ahmed Gul
+# Muhammad Ahmed Gul
 🌐 Welcome to my GitHub profile! I'm passionate about turning innovative ideas into smart devices that enhance and transform our world. With a keen eye for detail and a dedication to excellence, I specialize in the complete lifecycle of IoT and Embedded Systems development – from inception and prototyping to rigorous testing and full-scale production.
 
 🛠️ Expertise:
