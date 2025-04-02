@@ -3,7 +3,7 @@
 
 🛠️ Expertise:
 
-🔌 IoT Development: Leveraging my in-depth understanding of various communication protocols (Wi-Fi, Bluetooth, MQTT, Industrial Communication Protocol), I create seamless connections between devices, enabling efficient data exchange and smart automation.
+🔌 IoT Development: Leveraging my in-depth understanding of various communication protocols (Wi-Fi, Bluetooth, MQTT, Industrial Communication Protocol, Modbus RTU), I create seamless connections between devices, enabling efficient data exchange and smart automation.
 
 ⚙️ Embedded Systems: With a strong foundation in microcontroller programming (ESP32, AVR, STM32), I craft optimized firmware to breathe life into devices, ensuring they operate flawlessly and efficiently.
 
